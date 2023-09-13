@@ -1,9 +1,11 @@
 # FrogBot
 
-# Markdown -- Basically this is to give instruction to the humans using the repo
+# Dependencies:
 
-FrogBot
+You need discord.py installed
 
+1. py -3 -m pip install -U discord.py
+2. 
 
 # Instructions on what command list to do in order to spin the bot up
 
